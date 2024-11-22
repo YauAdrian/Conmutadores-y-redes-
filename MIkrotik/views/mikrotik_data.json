@@ -1,0 +1,56 @@
+[
+    {
+        "session": {
+            "nombre": "Router1"
+        },
+        "mikrotik": {
+            "ip": "192.168.88.1",
+            "usuario": "admin",
+            "password": "admin123"
+        },
+        "sistema": {
+            "nombre_hotspot": "Hotspot1",
+            "dns_name": "hotspot1.local",
+            "auto_load": "yes",
+            "idle_timeout": "30m",
+            "interfaz_grafico": "enabled",
+            "reporte_en_vivo": "active"
+        }
+    },
+    {
+        "session": {
+            "nombre": ""
+        },
+        "mikrotik": {
+            "ip": "",
+            "usuario": "",
+            "password": ""
+        },
+        "sistema": {
+            "nombre_hotspot": "",
+            "dns_name": "",
+            "auto_load": "",
+            "idle_timeout": "",
+            "interfaz_grafico": "",
+            "reporte_en_vivo": ""
+        }
+    },
+    {
+        "session": {
+            "nombre": "hola"
+        },
+        "mikrotik": {
+            "ip": "192.168.6.1",
+            "usuario": "admin",
+            "password": "admin"
+        },
+        "sistema": {
+            "nombre_hotspot": "",
+            "dns_name": "",
+            "auto_load": "",
+            "idle_timeout": "",
+            "interfaz_grafico": "",
+            "reporte_en_vivo": ""
+        }
+    }
+]
